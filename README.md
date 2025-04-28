@@ -2,11 +2,12 @@
 <a href="https://doi.org/10.5281/zenodo.15255502"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15255502.svg" alt="DOI"></a>
 <img align="right" src="www/nutria.png" width="300" style="margin-top: 20px">
 <br>
+<br>
 <strong>Project lead</strong>: <a href="https://www.gust.edu.kw/faculty-staff/Ahmed.D">Danish A. Ahmed</a><br>
 <a href="https://www.gust.edu.kw/cas-mnsd/home">Mathematics & Natural Science Department</a><br>
 Gulf University for Science and Technology<br>
 Kuwait<br>
-e-mail: <a href=mailto:ahmed.d@gust.edu.kw">ahmed.d@gust.edu.kw</a><br>
+e-mail: <a href="mailto:ahmed.d@gust.edu.kw">ahmed.d@gust.edu.kw</a><br>
 <br>
 Code & data repository accompanies paper: <br>
 <br>
