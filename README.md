@@ -1,7 +1,12 @@
 # Predicting future damage costs of non-native species
 <a href="https://doi.org/10.5281/zenodo.15255502"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15255502.svg" alt="DOI"></a>
 <img align="right" src="www/nutria.png" width="300" style="margin-top: 20px">
-
+<strong>Project lead<strong>: <a href="https://www.gust.edu.kw/faculty-staff/Ahmed.D">Danish A. Ahmed</a><br>
+<a href="https://www.gust.edu.kw/cas-mnsd/home">Mathematics & Natural Science Department</a><br>
+Gulf University for Science and Technology<br>
+Kuwait<br>
+e-mail: <a href=mailto:">ahmed.d@gust.edu.kw</a><br>
+<br>
 Code & data repository accompanies paper: <br>
 <br>
 <a href="https://www.gust.edu.kw/faculty-staff/Ahmed.D">Ahmed</a>, DA, CJA <a href="https://www.flinders.edu.au/people/corey.bradshaw">Bradshaw</a>, N <a href="https://www.linkedin.com/in/noor-tahat/?originalSubdomain=kw">Tahat</a>, EJ <a href="https://ejhudgins.com/">Hudgins</a>, P <a href="https://www.cee-m.fr/member/courtois-pierre/">Courtois</a>, PE <a href="https://researchers.lincoln.ac.nz/philip.hulme">Hulme</a>, Y <a href="https://researchmap.jp/_yw/?lang=en">Watari</a>, AS <a href="https://www.uni.lodz.pl/en/employee/ali-serhan-tarkan">Tarkan</a>, I <a href="https://scholar.google.com/citations?user=y3nT7tkAAAAJ&hl=es">Soto</a>, PJ <a href="https://philliphaubrock.wixsite.com/invasivespecies">Haubrock</a>, P <a href="https://scholar.google.com/citations?user=MVRebGEAAAAJ&hl=en">Balzani</a>, RN <a href="https://pure.qub.ac.uk/en/persons/ross-cuthbert-2">Cuthbert</a>. Predicting future damage costs of non-native species using combined dynamical and cost-density equations. In review
