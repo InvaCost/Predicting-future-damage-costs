@@ -11,5 +11,5 @@ Biological invasions threaten biodiversity, economic stability, and public healt
 
 ## Scripts
 - <a href="https://github.com/daa119/Predicting-future-damage-costs/tree/main/Figure%202%20Heuristic%20example">Fig. 2</a>: A heuristic example illustrating the damage cost dynamics for two hypothetical non-native species
-- <a href="">Fig. 3</a>: Re-scaled population density plots for the five non-native mammal species from Japan, modelled using the logistic growth model
+- <a href="https://github.com/daa119/Predicting-future-damage-costs/tree/main/Figure%203%20Re-scaled%20population%20density%20plots">Fig. 3</a>: Re-scaled population density plots for the five non-native mammal species from Japan, modelled using the logistic growth model
 - <a href="">Fig. 4</a>: Predicted damage costs over time for five non-native mammal species in Japan obtained from fitting the damage cost model against observed cost data
