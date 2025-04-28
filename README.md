@@ -22,5 +22,5 @@ Biological invasions threaten biodiversity, economic stability, and public healt
 - <a href="https://github.com/daa119/Predicting-future-damage-costs/tree/main/Figure%204%20Predicted%20damage%20costs%20over%20time">Fig. 4</a>: Predicted damage costs over time for five non-native mammal species in Japan obtained from fitting the damage cost model against observed cost data
 <br>
 <br>
-<p><a href="https://www.gust.edu.kw/"><img align="bottom-left" src="www/GUST.png" alt="Gulf University for Science and Technology" height="80" style="margin-top: 20px"></a></p>
+<p><a href="https://www.gust.edu.kw/"><img align="bottom-left" src="www/GUST.png" alt="Gulf University for Science and Technology" height="110" style="margin-top: 20px"></a></p>
 
