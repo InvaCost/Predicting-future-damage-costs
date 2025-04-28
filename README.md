@@ -1,5 +1,6 @@
 # Predicting future damage costs of non-native species
 <a href="https://doi.org/10.5281/zenodo.15255502"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15255502.svg" alt="DOI"></a>
+<img align="right" src="www/nutria.png" width="150" style="margin-top: 20px">
 
 Paper: <br>
 <br>
